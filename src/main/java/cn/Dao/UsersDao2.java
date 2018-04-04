@@ -64,7 +64,5 @@ public class UsersDao2 {
         //设置返回的一条记录的位置,设置最大返回记录数
         pa.setList(criteria.list());
         return pa;
-//        git config --global user.name "2307993687"
-//        git config --global user.email "2307993687@qq.com"
     }
 }
